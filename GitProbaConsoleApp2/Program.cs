@@ -11,6 +11,7 @@ namespace GitProbaConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("proba2");
+            Console.WriteLine("proba3");
         }
     }
 }
