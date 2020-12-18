@@ -12,6 +12,7 @@ namespace GitProbaConsoleApp2
         {
             Console.WriteLine("proba2");
             Console.WriteLine("proba3");
+            Console.WriteLine("proba4");
         }
     }
 }
